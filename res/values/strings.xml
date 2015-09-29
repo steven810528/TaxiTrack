@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaxiTrack</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="now">當前</string><string name="km">公尺</string><string name="total">共計</string>
+    
+    
+    <string name="dollars">元整</string>
+    <string name="get">上車</string>
+    <string name="stop">下車</string>
+    <string name="title">計程小工具</string>
+    <string name="back">back</string>
+    <string name="IsOnCar">是否乘車：</string>
+
+</resources>
